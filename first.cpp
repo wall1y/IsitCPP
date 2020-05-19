@@ -1,3 +1,4 @@
+//Задание 21
 #include <iostream>
 #include <fstream>
 #include <cstring>
